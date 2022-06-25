@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pinkthepink
-- 👀 I’m interested in Data Science and COllective Intelligence
-- 🌱 I’m currently learning MAchine Learning Technicques
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Machine Learning Technicques
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
